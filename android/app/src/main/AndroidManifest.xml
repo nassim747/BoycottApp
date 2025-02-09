@@ -1,0 +1,5 @@
+<manifest ...>
+    <!-- Add these lines before the <application> tag -->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <!-- ... rest of the manifest file ... -->
+</manifest> 
